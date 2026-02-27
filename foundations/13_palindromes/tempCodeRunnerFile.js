@@ -1,0 +1,1 @@
+palindromes('teSt !!Or Not')
